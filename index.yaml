@@ -3,9 +3,9 @@ entries:
   book-system-helm-chart:
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2023-11-16T06:43:29.650052939Z"
+    created: "2023-11-16T14:30:07.697156526Z"
     description: A Helm chart for Kubernetes
-    digest: b6bf0f9f1db729c589c6148c105ce4f9625ed63bad4ad0a4c90272bdb8117be1
+    digest: 8ac9fde129811cdbc863a2dd806bb2deb8181b3a71fc1c9f228c63f6626b8815
     name: book-system-helm-chart
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-16T06:43:29.649491879Z"
+    created: "2023-11-16T14:30:07.696541087Z"
     description: A Helm chart for Kubernetes
     digest: 8459b89adf9057da9effa20f906179f1ed07db4e163c1a1ec3cd3a6210226734
     name: book-system-helm-chart
@@ -21,4 +21,4 @@ entries:
     urls:
     - Packages/book-system-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-16T06:43:29.63534849Z"
+generated: "2023-11-16T14:30:07.641925963Z"
